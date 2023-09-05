@@ -1,1 +1,2 @@
-# IDS-using-ML
+# IDS using ML
+This project was a component of an FL architecture designed for detecting intrusions in an industrial IoT (I-IoT) environment. It employed the concept of federated learning, where the trained model resides on a global server shared among end devices. These devices gather data related to potential attacks, analyze it using the model, and subsequently transmit updated parameters back to the server.
